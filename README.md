@@ -1,4 +1,4 @@
-# Mary - ecomeerce
+# Mary - ecomerce
 
 Este projeto, é uma base de um site de ecomerce, onde apresenta uma loja de roupa e seus produtos.
 Com roupas estilosas e com muita personalidade!
@@ -20,7 +20,7 @@ Com roupas estilosas e com muita personalidade!
 
 ## 📄 Licença
 
-Imagens foram pegas da loja [ExCloset](https://excloset11.com.br) 
+Imagens originais da loja : [ExCloset](https://excloset11.com.br) 
 
 ---
 ⌨️ com ❤️ por [Eduarda Mendonça](https://gist.github.com/eduardamendonca) 😊
